@@ -1,0 +1,361 @@
+{
+  "category": "MYTHOLOGICAL_CREATURE",
+
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-01-14",
+    "repository": "https://github.com/wyrdness/garuda",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+
+  "phenomenon": {
+    "id": "garuda",
+    "name": "Garuda",
+    "aliases": [
+      {
+        "name": "Garuḍa",
+        "language": "Sanskrit",
+        "region": "India",
+        "meaning": "eagle"
+      },
+      {
+        "name": "Krut",
+        "language": "Thai",
+        "region": "Thailand"
+      },
+      {
+        "name": "Khangarid",
+        "language": "Mongolian",
+        "region": "Mongolia"
+      },
+      {
+        "name": "Karura",
+        "language": "Japanese",
+        "region": "Japan"
+      }
+    ],
+    "category": "MYTHOLOGICAL_CREATURE",
+    "subcategory": "Divine Being",
+    "tags": [
+      "bird",
+      "divine",
+      "hindu",
+      "buddhist",
+      "vahana",
+      "vishnu",
+      "immortal",
+      "protector",
+      "southeast-asia"
+    ],
+    "status": "active",
+    "description": {
+      "summary": "Divine bird creature in Hindu and Buddhist mythology, mount of Vishnu and king of birds. Depicted with eagle or hawk features, human body, golden feathers, and massive size. Eternal enemy of nagas (serpents) and protector deity.",
+      "full": "Garuda is a divine bird creature central to Hindu and Buddhist mythology. As the mount (vahana) of the god Vishnu, Garuda is depicted with a golden eagle or hawk head, massive wings, talons, and often a crowned human form. He is the king of birds and possesses superhuman strength, flight, immortality, and sun-like radiance. Garuda's most defining characteristic is his eternal rivalry with the nagas (serpents), against whom he serves as protector. In Hindu mythology, Garuda obtained the nectar of immortality (amrita) to free his mother from slavery. He is revered as a protector against serpents and poison. Garuda serves as a national symbol in Indonesia and Thailand, appears on national emblems and airline logos (Garuda Indonesia), and remains prominent in temple architecture and popular culture throughout South and Southeast Asia."
+    },
+    "etymology": {
+      "origin": "From Sanskrit 'garuḍa' (गरुड), possibly from 'gṛ' meaning to swallow, referring to consuming nagas",
+      "meaning": "Eagle, devourer",
+      "first_use": "Vedic texts (circa 1500-1000 BCE)"
+    }
+  },
+
+  "classification": {
+    "taxonomy": {
+      "category": "MYTHOLOGICAL_CREATURE",
+      "type": "Divine Being",
+      "subtype": "Bird deity",
+      "variant": "Hindu/Buddhist"
+    },
+    "related_phenomena": [
+      {
+        "id": "naga",
+        "name": "Naga",
+        "relationship": "enemy",
+        "description": "Serpent deities, eternal enemies of Garuda"
+      },
+      {
+        "id": "phoenix",
+        "name": "Phoenix",
+        "relationship": "similar",
+        "description": "Mythical bird with divine attributes"
+      },
+      {
+        "id": "thunderbird",
+        "name": "Thunderbird",
+        "relationship": "similar",
+        "description": "Native American divine bird with similar powers"
+      }
+    ]
+  },
+
+  "characteristics": {
+    "physical": {
+      "forms": [
+        {
+          "form": "Anthropomorphic bird",
+          "description": "Human body with bird head, wings, and talons",
+          "frequency": "most common"
+        },
+        {
+          "form": "Full bird",
+          "description": "Complete eagle/hawk form of massive size",
+          "frequency": "common"
+        },
+        {
+          "form": "Crowned humanoid",
+          "description": "Human form with bird features and royal crown",
+          "frequency": "occasional"
+        }
+      ],
+      "features": [
+        {
+          "feature": "Eagle/hawk head",
+          "description": "Bird of prey head with sharp beak",
+          "frequency": "always"
+        },
+        {
+          "feature": "Golden feathers",
+          "description": "Brilliant golden plumage",
+          "frequency": "common"
+        },
+        {
+          "feature": "Massive wings",
+          "description": "Enormous wingspan capable of blocking the sun",
+          "frequency": "always"
+        },
+        {
+          "feature": "Talons",
+          "description": "Powerful claws for grasping and combat",
+          "frequency": "always"
+        },
+        {
+          "feature": "Crown",
+          "description": "Royal crown or ornaments",
+          "frequency": "common"
+        }
+      ],
+      "size": "Described as massive, large enough to carry Vishnu or block out the sun with wings",
+      "morphology": "Divine bird with anthropomorphic features. Primary depiction shows human body with eagle head, wings, and talons. Golden radiance surrounds form."
+    },
+    "abilities": [
+      {
+        "ability": "Flight",
+        "description": "Superhuman flight capability, can cross vast distances instantly",
+        "frequency": "always",
+        "evidence_level": "mythological"
+      },
+      {
+        "ability": "Superhuman strength",
+        "description": "Immense physical power, capable of carrying gods",
+        "frequency": "always",
+        "evidence_level": "mythological"
+      },
+      {
+        "ability": "Immortality",
+        "description": "Eternal life granted by amrita (nectar of immortality)",
+        "frequency": "always",
+        "evidence_level": "mythological"
+      },
+      {
+        "ability": "Sun-like radiance",
+        "description": "Emits brilliant golden light",
+        "frequency": "common",
+        "evidence_level": "mythological"
+      },
+      {
+        "ability": "Snake immunity",
+        "description": "Protection against serpent venom and naga magic",
+        "frequency": "always",
+        "evidence_level": "mythological"
+      },
+      {
+        "ability": "Size alteration",
+        "description": "Can change size at will",
+        "frequency": "occasional",
+        "evidence_level": "mythological"
+      }
+    ],
+    "behavior": {
+      "disposition": "protective",
+      "role": "Mount of Vishnu, king of birds, protector against evil",
+      "patterns": [
+        "Serves Vishnu faithfully",
+        "Hunts and devours nagas",
+        "Protects devotees from serpents and poison",
+        "Guards against evil forces"
+      ]
+    }
+  },
+
+  "distribution": {
+    "range": {
+      "description": "Originating in Hindu mythology of India, Garuda beliefs spread throughout Southeast Asia and East Asia with Buddhism and Hinduism",
+      "continents": ["Asia"],
+      "countries": ["India", "Indonesia", "Thailand", "Myanmar", "Cambodia", "Mongolia", "Japan", "Nepal"],
+      "regions": [
+        "Indian subcontinent",
+        "Southeast Asia",
+        "East Asia (Buddhist adaptations)"
+      ]
+    },
+    "cultural_significance": [
+      {
+        "culture": "Hinduism",
+        "significance": "Vahana (mount) of Vishnu, symbol of divine power and protection"
+      },
+      {
+        "culture": "Buddhism",
+        "significance": "Protector deity, one of the eight classes of dharma protectors"
+      },
+      {
+        "culture": "Indonesian",
+        "significance": "National symbol, represents struggle against colonialism and oppression"
+      },
+      {
+        "culture": "Thai",
+        "significance": "Royal and national emblem, government seal"
+      }
+    ]
+  },
+
+  "history": {
+    "origins": {
+      "cultural_roots": "Ancient Hindu mythology, Vedic texts, pre-Hindu bird deity worship",
+      "earliest_accounts": "Vedic literature, Mahabharata (circa 400 BCE)",
+      "folklore_connections": "Connected to worldwide bird deity traditions, solar bird myths"
+    },
+    "timeline": [
+      {
+        "date": "1500-1000 BCE",
+        "event": "Vedic period references",
+        "significance": "Early references to divine birds in Vedic texts",
+        "source": "Rigveda"
+      },
+      {
+        "date": "400 BCE",
+        "event": "Mahabharata narrative",
+        "significance": "Detailed account of Garuda's birth and quest for amrita",
+        "source": "Mahabharata (Adi Parva)"
+      },
+      {
+        "date": "200 BCE-200 CE",
+        "event": "Buddhist adoption",
+        "significance": "Garuda incorporated into Buddhist cosmology as protector deity",
+        "source": "Buddhist texts"
+      },
+      {
+        "date": "800-1200 CE",
+        "event": "Southeast Asian spread",
+        "significance": "Garuda becomes prominent in Khmer, Thai, Javanese cultures",
+        "source": "Temple architecture and inscriptions"
+      },
+      {
+        "date": "1950",
+        "event": "Indonesian national symbol",
+        "significance": "Garuda Pancasila adopted as national emblem of Indonesia",
+        "source": "Indonesian government"
+      }
+    ],
+    "modern_era": "Garuda remains central to Hindu and Buddhist religious practice. Serves as national symbol of Indonesia (Garuda Pancasila) and Thailand (Krut). Featured in airline branding (Garuda Indonesia), government seals, and popular culture across Asia."
+  },
+
+  "mythology": {
+    "birth_story": "Garuda was born from an egg laid by his mother Vinata after a prolonged gestation. His father was the sage Kashyapa. Upon hatching, his radiance was so great he was mistaken for Agni, the fire god.",
+    "amrita_quest": "To free his mother from slavery to the nagas, Garuda had to obtain the amrita (nectar of immortality) from the gods. He successfully stole it through great strength and cunning, defeating the gods' guardians. Vishnu was impressed and offered him a boon, leading Garuda to become his mount. Indra later recovered the amrita.",
+    "eternal_enmity": "The eternal conflict between Garuda and the nagas stems from a wager between his mother Vinata and her sister Kadru (mother of nagas), which resulted in Vinata's enslavement. This cosmic rivalry represents the conflict between sky and earth, light and darkness."
+  },
+
+  "symbolism": {
+    "primary_meanings": [
+      "Divine power and martial prowess",
+      "Speed and mobility",
+      "Protection from evil (especially serpents)",
+      "Freedom from bondage",
+      "Solar energy and radiance",
+      "Opposition to tyranny"
+    ],
+    "spiritual_significance": "Garuda represents the soul's liberation from material bondage (symbolized by serpents). His quest for amrita parallels spiritual seeking. In Buddhism, he embodies the dharma's power to overcome obstacles."
+  },
+
+  "cultural": {
+    "folklore": {
+      "traditions": [
+        "Garuda Purana (Hindu funeral text)",
+        "Thai Krut dance traditions",
+        "Balinese Garuda mythology",
+        "Mongolian Khangarid legends"
+      ],
+      "beliefs": "Garuda protects against snake bites and poison. Invoked for protection during travel. Symbol of righteous power overcoming evil."
+    },
+    "national_symbols": {
+      "indonesia": "Garuda Pancasila - national emblem showing Garuda with shield containing five principles of Indonesian state philosophy",
+      "thailand": "Phra Khrut Pha - royal symbol, appears on government seals and royal regalia",
+      "mongolia": "Khangarid - national symbol appearing on emblems"
+    },
+    "popular_culture": {
+      "literature": [
+        "Featured in Hindu Puranas",
+        "Garuda Purana (afterlife text)",
+        "Modern fantasy literature"
+      ],
+      "film_tv": [
+        "Bollywood mythological films",
+        "Thai supernatural series",
+        "Indonesian cultural productions"
+      ],
+      "other": [
+        "Garuda Indonesia airline",
+        "Thai government emblem",
+        "Temple architecture throughout Asia",
+        "Martial arts symbolism"
+      ]
+    }
+  },
+
+  "cultural_sensitivity": {
+    "note": "Garuda is part of living Hindu and Buddhist religious traditions and serves as national symbol for multiple countries. Not merely a mythological creature but an object of veneration and national pride.",
+    "guidelines": [
+      "Recognize Garuda as sacred religious being and national symbol",
+      "Respect religious contexts where Garuda imagery appears",
+      "Understand political and cultural significance in Indonesia and Thailand",
+      "Consult with Hindu and Buddhist scholars for religious interpretation"
+    ]
+  },
+
+  "sources": [
+    {
+      "id": "mahabharata",
+      "type": "religious text",
+      "title": "Mahabharata",
+      "authors": ["Vyasa (attributed)"],
+      "date": "circa 400 BCE"
+    },
+    {
+      "id": "zimmer-1946",
+      "type": "book",
+      "title": "Myths and Symbols in Indian Art and Civilization",
+      "authors": ["Heinrich Zimmer"],
+      "publication": "Princeton University Press",
+      "date": "1946"
+    },
+    {
+      "id": "jansen-1990",
+      "type": "book",
+      "title": "The Garuda in Southeast Asian Art",
+      "authors": ["Eva Jansen"],
+      "publication": "Rijksmuseum",
+      "date": "1990"
+    }
+  ]
+}
